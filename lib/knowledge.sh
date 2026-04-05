@@ -1,6 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-# knowledge.sh - DeepSeek API 控制台模块
-# 自动生成于 Sun Apr  5 15:33:56 CST 2026
+# 这是 AetherMind 预留模块文件
+# 如需扩展功能，请在此文件中实现
+# 当前版本所有功能已集成在主脚本中
 
-# 请在此文件中实现具体的功能逻辑
+echo "此模块暂未实现"
